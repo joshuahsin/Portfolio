@@ -7,6 +7,9 @@ My main skills are in Python Django and Java Spring Boot App Development. I also
 ## Food Delivery App (Java Spring Boot, JPA, Hibernate, Eureka, Mockito, MySQL, Angular, HTML, Bootstrap, CSS)
 During my training at LTIMindtree, I created a Food Delivery App from scratch in a team of 5, complete with different pages such as log in, sign up, cart, complete order pages, etc. This App also included different user specific actions and pages sorted by user type - User, Vendor, and Admin. 
 
+Backend: https://github.com/holysmokes48/lti-capstone-backend/tree/master
+Frontend: https://github.com/holysmokes48/lti-capstone-frontend
+
 ## Movie Rental App - (Java Spring Boot, JDBC, MySQL, React, React Native, HTML, Boostrap, CSS, JSX, Jackson)
 As a personal project, I created a Movie Rental Application in which users could log in, sign up, post feedback about movies, view movie details, filter movie searches by various field, etc.
 
