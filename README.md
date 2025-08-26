@@ -13,6 +13,7 @@ Frontend: https://github.com/holysmokes48/lti-capstone-frontend
 ## Movie Rental App - (Java Spring Boot, JDBC, MySQL, React, React Native, HTML, Boostrap, CSS, JSX, Jackson)
 As a personal project, I created a Movie Rental Application in which users could log in, sign up, post feedback about movies, view movie details, filter movie searches by various field, etc.
 
+https://github.com/joshuahsin/MovieApplication
 https://www.youtube.com/watch?v=Eh5a9KCD_sQ&ab_channel=JoshuaHsin 
 
 ## Inverted Index Search Engine (Python, BeautifulSoup)
