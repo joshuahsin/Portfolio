@@ -8,19 +8,23 @@ My main skills are in Python Django and Java Spring Boot App Development. I also
 In this personal project, I created a Weather App that provides basic functions such as providing wether and forecast details for the user's current location and allow user's to search for cities, as well as edit a saved list of cities for easy access. However, I also utilizied Google Gemini's API to harness the power of Generative AI and give attraction recommendations to th user near the current location accounting for daily weather. User's can either create and save or export their own itinerary chosen from recommended attractions or fully rely on Generative AI to generative a detailed itinerary appropriate to daily weather, including pricing details and general tips, and emergency contacts. To help produce base code in my NodeJS Backend and React Frontend, format HTML and CSS elements, and generally improve code quality, I employed the user of Cursor AI, an AI powered code editor which helps with code generation and auto-completion.
 
 React Frontend: https://github.com/joshuahsin/weather-app-frontend
+<br>
 Java Spring Boot Backend (Interacting with City Objects): https://github.com/joshuahsin/weather-app-cities-backend
+<br>
 Node Backend (Interacting with Third Party APIs): https://github.com/joshuahsin/weather-app-weather-ai-backend
 
 ## Food Delivery App (Java Spring Boot, Angular, MySQL, Spring JPA, Spring Hibernate, Spring Eureka, Mockito, HTML, Bootstrap, CSS, TypeScript)
 During my training at LTIMindtree, I helped develop Food Delivery App from scratch in a team of 5. This App also included different user specific actions and pages sorted by user type - User, Vendor, and Admin. Users are able to add foods and eligable coupons to their order. Vendors can edit their offers, food items, and other elements on their store page. The Admin can add or remove vendors and provide or delete widely available offers.
 
-Backend: https://github.com/holysmokes48/lti-capstone-backend/tree/master, 
+Backend: https://github.com/holysmokes48/lti-capstone-backend/tree/master
+<br>
 Frontend: https://github.com/holysmokes48/lti-capstone-frontend
 
 ## Movie Rental App - (Java Spring Boot, MySQL, React, React Native, HTML, Boostrap, CSS, Spring JDBC, JSX, Jackson)
 As a personal project, I created a Movie Rental Application in which users could log in, sign up, post feedback about movies, view movie details, filter movie searches by various field, check out movies etc.
 
-Code: https://github.com/joshuahsin/MovieApplication,
+Code: https://github.com/joshuahsin/MovieApplication
+<br>
 Example: https://www.youtube.com/watch?v=Eh5a9KCD_sQ&ab_channel=JoshuaHsin 
 
 ## Inverted Index Search Engine (Python, BeautifulSoup)
